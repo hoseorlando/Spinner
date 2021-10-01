@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ONEHealth</string>
+    <string name="TextView1">Welcome To ONEHealth</string>
+    <string name="TextView2">Register Now!</string>
+
+    <string name="TextView3">Name</string>
+    <string name="Name">Full Name</string>
+    <string name="number">ID</string>
+    <string name="TextView4">Email Address</string>
+    <string name="Email">Input Email</string>
+    <string name="TextView5">Phone Number</string>
+    <string name="Phone">Input Phone Number</string>
+    <string name="TextView6">Gender</string>
+    <string name="TextView7">Blood Type</string>
+    <string name="TextView8">Height</string>
+    <string name="Height">In Meter</string>
+    <string name="TextView9">Weight</string>
+    <string name="Weight">In KG</string>
+    <string name="Button">Next</string>
+
+</resources>
